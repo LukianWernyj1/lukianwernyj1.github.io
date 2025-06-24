@@ -11,7 +11,6 @@ I'm Lukian (or Luke) Wernyj, a rising senior at Rutgers University majoring in s
 
 Outside of academics, you can find me rowing on the Rutgers Crew, traveling, cycling, playing chess, fiddling on my guitar and making music, and watching Manchester United (which has been VERY difficult recently). I’ve produced Billboard-charting songs, and now enjoy working on data projects or learning about cool maths in my free time.
 
-I’m also working on a few startup concepts and love combining mathematical thinking with entrepreneurship and creative design.
 
-## About me
-## =====
+Title
+=====
